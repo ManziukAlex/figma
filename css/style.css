@@ -1,0 +1,211 @@
+header .container {
+  height: 100px;
+  width: 1280px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  background: #ffffff;
+}
+
+header .navbar-brand {
+  font-family: "Poppins", sans-serif;
+  font-size: 32.5px;
+  color: #000000;
+  text-transform: uppercase;
+  height: 35px;
+  width: 154px;
+  left: 100px;
+  top: 32.5px;
+  border-radius: 0px;
+}
+
+header .row .nav-item .nav-link {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #2d2d2d;
+}
+header .row .btn-primary {
+  height: 64px;
+  width: 200px;
+  left: 98px;
+  top: 0px;
+  border-radius: 32px;
+  background-color: #5f9cff;
+}
+
+section .container {
+  height: 600px;
+  width: 1280px;
+  left: 0px;
+  top: 100px;
+  border-radius: 0px;
+  background: #eef2ff;
+}
+section .container .card {
+  height: 460px;
+  width: 1080px;
+  left: 100px;
+  top: 70px;
+  border-radius: 0px;
+  background: #eef2ff;
+  border-width: 0px;
+}
+
+section .container .card .card-body {
+  height: 401.24127197265625px;
+  width: 466px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  background: #eef2ff;
+}
+
+section .container .img {
+  height: 460px;
+  width: 500px;
+  left: 580px;
+  top: 0px;
+  border-radius: 10px;
+  background: #c4c4c4;
+}
+section .card-title {
+  font-family: Poppins;
+  font-size: 80px;
+  font-weight: 600;
+  line-height: 90px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #2d2d2d;
+}
+
+section .card-text {
+  font-family: Poppins;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+section .card-link {
+  height: 64px;
+  width: 200px;
+  left: 0px;
+  top: 0px;
+  border-radius: 32px;
+}
+section .col .btn-outline-success {
+  height: 64px;
+  width: 200px;
+  left: 0px;
+  top: 0px;
+  border-radius: 32px;
+  background: #f268a9;
+}
+section .col .btn-light {
+  height: 64px;
+  width: 200px;
+  left: 0px;
+  top: 0px;
+  border-radius: 32px;
+  background: #eef2ff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+
+.logos .container {
+  height: 200px;
+  width: 1280px;
+  left: 0px;
+  top: 700px;
+  border-radius: 0px;
+  background: #ffffff;
+}
+
+.logos .container .row {
+  margin: 80px 172.91px 80px 172px;
+}
+
+.Features .container {
+  height: 500px;
+  width: 1280px;
+  left: 0px;
+  top: 1500px;
+  border-radius: 0px;
+  background: #ffffff;
+}
+
+.Features .container .container {
+  height: 268px;
+  width: 1100px;
+  left: 90px;
+  top: 116px;
+  border-radius: 0px;
+}
+
+.Features .container .container .row {
+  margin: 116px 60px 116px 60px;
+}
+
+.center-img {
+  display: block;
+  margin: 0 auto;
+}
+
+p .Features .container .container .row .col {
+  height: 96px;
+  width: 230px;
+  left: 0px;
+  top: 172px;
+  border-radius: nullpx;
+}
+
+.CTA .container {
+  height: 502px;
+  width: 1280px;
+  left: 0px;
+  top: 2500px;
+  border-radius: 0px;
+  background-color: #eef2ff;
+}
+
+.CTA .container .card {
+  height: 288px;
+  width: 564px;
+  left: 358px;
+  top: 107px;
+  border-radius: 0px;
+  background-color: #eef2ff;
+  border-width: 0px;
+}
+.CTA .container .card .btn-outline-success {
+  height: 64px;
+  width: 200px;
+  left: 0px;
+  top: 0px;
+  border-radius: 32px;
+  background: #f268a9;
+}
+
+.video .container {
+  height: 600px;
+  width: 1280px;
+  left: 0px;
+  top: 900px;
+  border-radius: 0px;
+  background: #daf2f1;
+}
+
+footer .container {
+  height: 413px;
+  width: 1280px;
+  left: 0px;
+  top: 3002px;
+  border-radius: 0px;
+  background: #ffffff;
+}
